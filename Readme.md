@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rama Mai</h1>
-<h3 align="center">Backend developer from Indonesia</h3>
+<h3 align="center">Backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itdev22&label=Profile%20views&color=0e75b6&style=flat" alt="itdev22" /> </p>
 
